@@ -1,2 +1,2 @@
 # stock_predict
-user sklearn.pipeline
+use sklearn.pipeline
